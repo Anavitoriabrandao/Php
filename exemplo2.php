@@ -15,7 +15,8 @@ $y = 4;
 echo"x=".$x;
 echo "<br> y=.$x";
 echo "<br> x+y= ".$x + $y;
-
+print ("<br> teste");
+print "<br> utilizei o comando print";
 
 ?>
 
